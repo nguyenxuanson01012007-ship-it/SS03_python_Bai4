@@ -8,7 +8,7 @@ while new_employee_count <= 0:
 
     if new_employee_count <= 0:
 
-        print("❌ LỖI: Số lượng nhân sự phải lớn hơn 0!")
+        print("LỖI: Số lượng nhân sự phải lớn hơn 0!")
 
 
 print(" Ghi nhận thành công.")
